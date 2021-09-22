@@ -1,2 +1,2 @@
 # StarVQA
-tarVQA: Space-Time Attention for Video Quality Assessment
+StarVQA: Space-Time Attention for Video Quality Assessment
