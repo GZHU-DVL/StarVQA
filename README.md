@@ -29,7 +29,8 @@ cd StarVQA
 python setup.py build develop
 ```
 
-
+# Pretrain model
+[**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
 
 
 If you find StarVQA useful in your research, please use the following BibTeX entry for citation.
