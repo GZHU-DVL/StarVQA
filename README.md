@@ -29,6 +29,8 @@ cd StarVQA
 python setup.py build develop
 ```
 
+Please replace the data path with your local path 
+
 # Pretrain model
 [**checkpoint-baidu**](https://pan.baidu.com/s/16z7erijruMTJNYyr2IWwfw) 提取码:87st
 
